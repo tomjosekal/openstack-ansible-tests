@@ -84,9 +84,9 @@ patch required to get it working on each repository:
 | Glance_
 | Nova_
 
-.. _Swift: http://github.com/andymcc/openstack-ansible-os_swift/
-.. _Keystone: http://github.com/andymcc/openstack-ansible-os_keystone/
-.. _Glance: http://github.com/andymcc/openstack-ansible-os_glance/
-.. _Nova: http://github.com/andymcc/openstack-ansible-os_nova/
+.. _Swift: http://github.com/openstack/openstack-ansible-os_swift/
+.. _Keystone: http://github.com/openstack/openstack-ansible-os_keystone/
+.. _Glance: http://github.com/openstack/openstack-ansible-os_glance/
+.. _Nova: http://github.com/openstack/openstack-ansible-os_nova/
 
 
